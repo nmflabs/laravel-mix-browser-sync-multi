@@ -1,6 +1,6 @@
 {
   "name": "laravel-mix-browser-sync-multi",
-  "version": "0.1.0",
+  "version": "0.0.0",
   "description": "Run multiple BrowserSync instance in your Laravel Mix.",
   "main": "index.js",
   "scripts": {
