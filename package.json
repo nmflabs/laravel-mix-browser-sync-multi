@@ -1,0 +1,23 @@
+{
+  "name": "laravel-mix-browser-sync-multi",
+  "version": "0.1.0",
+  "description": "Run multiple BrowserSync instance in your Laravel Mix.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nmflabs/laravel-mix-browser-sync-multi.git"
+  },
+  "keywords": ["laravel", "laravel mix", "mix", "browsersync"],
+  "author": "Nabil Muhammad Firdaus",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/nmflabs/laravel-mix-browser-sync-multi/issues"
+  },
+  "homepage": "https://github.com/nmflabs/laravel-mix-browser-sync-multi#readme",
+  "peerDependencies": {
+    "laravel-mix": "^2.1.7"
+  }
+}
