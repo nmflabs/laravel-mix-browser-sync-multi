@@ -1,5 +1,5 @@
 const mix = require('laravel-mix');
-const Component = require('laravel-mix/src/components/Browsersync');
+const Component = require('laravel-mix/src/components/BrowserSync');
 
 class BrowsersyncMulti extends Component {
   register(userConfig) {
